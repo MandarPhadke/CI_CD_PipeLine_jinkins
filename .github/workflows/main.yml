@@ -24,4 +24,4 @@ jobs:
           key: ${{secrets.EC2_SSHKEY }} 
           port: 22
           source: ./
-          target: /home/ubuntu/HTML 
+          target: /home/ubuntu 
